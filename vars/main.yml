@@ -1,2 +1,6 @@
 ---
 # vars file for .
+tomcat_group: tomcat
+tomcat_user: tomcat
+http_port: 8080
+https_port: 8081
